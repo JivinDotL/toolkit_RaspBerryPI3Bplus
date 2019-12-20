@@ -1,0 +1,1 @@
+sudo dd if=rpi-20191216-2245.img of=/dev/sda
